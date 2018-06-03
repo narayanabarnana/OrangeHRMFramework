@@ -1,0 +1,91 @@
+ INFO [main] (CommonDriver.java:28)- =======Starting Base Scenario Pack========
+ INFO [main] (CommonDriver.java:35)- Chrome Browser is Initialised
+ INFO [main] (CommonDriver.java:55)- Setting default pageload time as 60
+ INFO [main] (CommonDriver.java:57)- Setting default implict wait time as 20
+ INFO [main] (TC001_LoginSanity.java:23)- =======Starting Login Sanity test========
+ INFO [main] (LoginPage.java:49)- Clicked on login button 
+ INFO [main] (TC001_LoginSanity.java:35)- =======Finished Login Sanity test========
+ INFO [main] (CommonDriver.java:28)- =======Starting Base Scenario Pack========
+ INFO [main] (CommonDriver.java:35)- Chrome Browser is Initialised
+ INFO [main] (CommonDriver.java:55)- Setting default pageload time as 60
+ INFO [main] (CommonDriver.java:57)- Setting default implict wait time as 20
+ INFO [main] (TC001_LoginSanity.java:23)- =======Starting Login Sanity test========
+ INFO [main] (LoginPage.java:49)- Clicked on login button 
+ INFO [main] (TC001_LoginSanity.java:35)- =======Finished Login Sanity test========
+ INFO [main] (CommonDriver.java:28)- =======Starting Base Scenario Pack========
+ INFO [main] (CommonDriver.java:35)- Chrome Browser is Initialised
+ INFO [main] (CommonDriver.java:55)- Setting default pageload time as 60
+ INFO [main] (CommonDriver.java:57)- Setting default implict wait time as 20
+ INFO [main] (CommonDriver.java:28)- =======Starting Base Scenario Pack========
+ INFO [main] (CommonDriver.java:35)- Chrome Browser is Initialised
+ INFO [main] (CommonDriver.java:55)- Setting default pageload time as 60
+ INFO [main] (CommonDriver.java:57)- Setting default implict wait time as 20
+ INFO [main] (TC001_LoginSanity.java:23)- =======Starting Login Sanity test========
+ INFO [main] (TC002_UserVerify.java:21)- =======Starting User Sanity test========
+ INFO [main] (LoginPage.java:49)- Clicked on login button 
+ INFO [main] (CommonDriver.java:28)- =======Starting Base Scenario Pack========
+ INFO [main] (CommonDriver.java:35)- Chrome Browser is Initialised
+ INFO [main] (CommonDriver.java:55)- Setting default pageload time as 60
+ INFO [main] (CommonDriver.java:57)- Setting default implict wait time as 20
+ INFO [main] (CommonDriver.java:28)- =======Starting Base Scenario Pack========
+ INFO [main] (CommonDriver.java:35)- Chrome Browser is Initialised
+ INFO [main] (CommonDriver.java:55)- Setting default pageload time as 60
+ INFO [main] (CommonDriver.java:57)- Setting default implict wait time as 20
+ INFO [main] (TC001_LoginSanity.java:23)- =======Starting Login Sanity test========
+ INFO [main] (TC002_UserVerify.java:21)- =======Starting User Sanity test========
+ INFO [main] (LoginPage.java:49)- Clicked on login button 
+ INFO [main] (CommonDriver.java:28)- =======Starting Base Scenario Pack========
+ INFO [main] (CommonDriver.java:35)- Chrome Browser is Initialised
+ INFO [main] (CommonDriver.java:55)- Setting default pageload time as 60
+ INFO [main] (CommonDriver.java:57)- Setting default implict wait time as 20
+ INFO [main] (CommonDriver.java:28)- =======Starting Base Scenario Pack========
+ INFO [main] (CommonDriver.java:35)- Chrome Browser is Initialised
+ INFO [main] (CommonDriver.java:55)- Setting default pageload time as 60
+ INFO [main] (CommonDriver.java:57)- Setting default implict wait time as 20
+ INFO [main] (TC001_LoginSanity.java:23)- =======Starting Login Sanity test========
+ INFO [main] (TC002_UserVerify.java:21)- =======Starting User Sanity test========
+ INFO [main] (LoginPage.java:49)- Clicked on login button 
+ INFO [main] (CommonDriver.java:28)- =======Starting Base Scenario Pack========
+ INFO [main] (CommonDriver.java:35)- Chrome Browser is Initialised
+ INFO [main] (CommonDriver.java:55)- Setting default pageload time as 60
+ INFO [main] (CommonDriver.java:57)- Setting default implict wait time as 20
+ INFO [main] (TC001_LoginSanity.java:23)- =======Starting Login Sanity test========
+ INFO [main] (LoginPage.java:49)- Clicked on login button 
+ INFO [main] (TC001_LoginSanity.java:35)- =======Finished Login Sanity test========
+ INFO [main] (CommonDriver.java:28)- =======Starting Base Scenario Pack========
+ INFO [main] (CommonDriver.java:35)- Chrome Browser is Initialised
+ INFO [main] (CommonDriver.java:55)- Setting default pageload time as 60
+ INFO [main] (CommonDriver.java:57)- Setting default implict wait time as 20
+ INFO [main] (CommonDriver.java:28)- =======Starting Base Scenario Pack========
+ INFO [main] (CommonDriver.java:35)- Chrome Browser is Initialised
+ INFO [main] (CommonDriver.java:55)- Setting default pageload time as 60
+ INFO [main] (CommonDriver.java:57)- Setting default implict wait time as 20
+ INFO [main] (TC001_LoginSanity.java:25)- =======Starting Login Sanity test========
+ INFO [main] (LoginPage.java:49)- Clicked on login button 
+ INFO [main] (TC001_LoginSanity.java:37)- =======Finished Login Sanity test========
+ INFO [main] (TC002_UserVerify.java:21)- =======Starting User Sanity test========
+ INFO [main] (LoginPage.java:49)- Clicked on login button 
+ INFO [main] (CommonDriver.java:28)- =======Starting Base Scenario Pack========
+ INFO [main] (CommonDriver.java:35)- Chrome Browser is Initialised
+ INFO [main] (CommonDriver.java:55)- Setting default pageload time as 60
+ INFO [main] (CommonDriver.java:57)- Setting default implict wait time as 20
+ INFO [main] (CommonDriver.java:28)- =======Starting Base Scenario Pack========
+ INFO [main] (CommonDriver.java:35)- Chrome Browser is Initialised
+ INFO [main] (CommonDriver.java:55)- Setting default pageload time as 60
+ INFO [main] (CommonDriver.java:57)- Setting default implict wait time as 20
+ INFO [main] (TC001_LoginSanity.java:25)- =======Starting Login Sanity test========
+ INFO [main] (LoginPage.java:49)- Clicked on login button 
+ INFO [main] (TC001_LoginSanity.java:37)- =======Finished Login Sanity test========
+ INFO [main] (TC002_UserVerify.java:21)- =======Starting User Sanity test========
+ INFO [main] (LoginPage.java:49)- Clicked on login button 
+ INFO [main] (CommonDriver.java:28)- =======Starting Base Scenario Pack========
+ INFO [main] (CommonDriver.java:35)- Chrome Browser is Initialised
+ INFO [main] (CommonDriver.java:55)- Setting default pageload time as 60
+ INFO [main] (CommonDriver.java:57)- Setting default implict wait time as 20
+ INFO [main] (CommonDriver.java:28)- =======Starting Base Scenario Pack========
+ INFO [main] (CommonDriver.java:35)- Chrome Browser is Initialised
+ INFO [main] (CommonDriver.java:55)- Setting default pageload time as 60
+ INFO [main] (CommonDriver.java:57)- Setting default implict wait time as 20
+ INFO [main] (TC001_LoginSanity.java:25)- =======Starting Login Sanity test========
+ INFO [main] (TC002_UserVerify.java:21)- =======Starting User Sanity test========
+ INFO [main] (LoginPage.java:49)- Clicked on login button 

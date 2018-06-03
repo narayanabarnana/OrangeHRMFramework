@@ -1,0 +1,7 @@
+INFO - =======Starting Base Scenario Pack========
+INFO - Chrome Browser is Initialised
+INFO - Setting default pageload time as 60
+INFO - Setting default implict wait time as 20
+INFO - =======Starting Login Sanity test========
+INFO - Clicked on login button 
+INFO - =======Finished Login Sanity test========

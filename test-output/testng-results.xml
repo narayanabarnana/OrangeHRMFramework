@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="4" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Regression Suite" duration-ms="13165" started-at="2018-01-08T14:54:46Z" finished-at="2018-01-08T14:55:00Z">
+    <groups>
+    </groups>
+    <test name="HomePageTest" duration-ms="13165" started-at="2018-01-08T14:54:46Z" finished-at="2018-01-08T14:55:00Z">
+      <class name="testCasePack.TC002_UserVerify">
+        <test-method status="PASS" signature="setup()[pri:0, instance:testCasePack.TC002_UserVerify@4f9a2c08]" name="setup" is-config="true" duration-ms="2599" started-at="2018-01-08T20:24:52Z" finished-at="2018-01-08T20:24:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="UserVerify()[pri:0, instance:testCasePack.TC002_UserVerify@4f9a2c08]" name="UserVerify" duration-ms="4345" started-at="2018-01-08T20:24:55Z" finished-at="2018-01-08T20:24:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UserVerify -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testCasePack.TC002_UserVerify@4f9a2c08]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2018-01-08T20:24:55Z" finished-at="2018-01-08T20:24:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testCasePack.TC002_UserVerify.UserVerify()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:testCasePack.TC002_UserVerify@4f9a2c08]" name="afterMethod" is-config="true" duration-ms="1" started-at="2018-01-08T20:24:59Z" finished-at="2018-01-08T20:24:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=UserVerify status=SUCCESS method=TC002_UserVerify.UserVerify()[pri:0, instance:testCasePack.TC002_UserVerify@4f9a2c08] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="ScreenshotHandle(org.testng.ITestResult)[pri:0, instance:testCasePack.TC002_UserVerify@4f9a2c08]" name="ScreenshotHandle" is-config="true" duration-ms="0" started-at="2018-01-08T20:24:59Z" finished-at="2018-01-08T20:24:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=UserVerify status=SUCCESS method=TC002_UserVerify.UserVerify()[pri:0, instance:testCasePack.TC002_UserVerify@4f9a2c08] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ScreenshotHandle -->
+        <test-method status="PASS" signature="cleanup()[pri:0, instance:testCasePack.TC002_UserVerify@4f9a2c08]" name="cleanup" is-config="true" duration-ms="292" started-at="2018-01-08T20:24:59Z" finished-at="2018-01-08T20:25:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanup -->
+      </class> <!-- testCasePack.TC002_UserVerify -->
+      <class name="testCasePack.TC001_LoginSanity">
+        <test-method status="PASS" signature="setup()[pri:0, instance:testCasePack.TC001_LoginSanity@33308786]" name="setup" is-config="true" duration-ms="2902" started-at="2018-01-08T20:24:46Z" finished-at="2018-01-08T20:24:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testCasePack.TC001_LoginSanity@33308786]" name="beforeMethod" is-config="true" duration-ms="6" started-at="2018-01-08T20:24:52Z" finished-at="2018-01-08T20:24:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testCasePack.TC001_LoginSanity.loginVerifyTextSanity(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="loginVerifyTextSanity(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testCasePack.TC001_LoginSanity@33308786]" name="loginVerifyTextSanity" duration-ms="23" started-at="2018-01-08T20:24:52Z" data-provider="getData" finished-at="2018-01-08T20:24:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[a]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[a]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[q]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[a]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[a]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[bdm]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginVerifyTextSanity -->
+        <test-method status="PASS" signature="ScreenshotHandle(org.testng.ITestResult)[pri:0, instance:testCasePack.TC001_LoginSanity@33308786]" name="ScreenshotHandle" is-config="true" duration-ms="0" started-at="2018-01-08T20:24:52Z" finished-at="2018-01-08T20:24:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=loginVerifyTextSanity status=SUCCESS method=TC001_LoginSanity.loginVerifyTextSanity(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testCasePack.TC001_LoginSanity@33308786] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ScreenshotHandle -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:testCasePack.TC001_LoginSanity@33308786]" name="afterMethod" is-config="true" duration-ms="3" started-at="2018-01-08T20:24:52Z" finished-at="2018-01-08T20:24:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=loginVerifyTextSanity status=SUCCESS method=TC001_LoginSanity.loginVerifyTextSanity(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testCasePack.TC001_LoginSanity@33308786] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="cleanup()[pri:0, instance:testCasePack.TC001_LoginSanity@33308786]" name="cleanup" is-config="true" duration-ms="212" started-at="2018-01-08T20:24:52Z" finished-at="2018-01-08T20:24:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanup -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:testCasePack.TC001_LoginSanity@33308786]" name="afterSuite" is-config="true" duration-ms="617" started-at="2018-01-08T20:25:05Z" finished-at="2018-01-08T20:25:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- testCasePack.TC001_LoginSanity -->
+    </test> <!-- HomePageTest -->
+  </suite> <!-- Regression Suite -->
+</testng-results>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="-1" guice-stage="DEVELOPMENT" name="Failed suite [Regression Suite]">
+  <listeners>
+    <listener class-name="ListenerPackage.Listener"/>
+  </listeners>
+  <test name="HomePageTest(failed)">
+    <classes>
+      <class name="testCasePack.TC001_LoginSanity">
+        <methods>
+          <include name="zabc"/>
+          <include name="ScreenshotHandle"/>
+          <include name="cleanup"/>
+          <include name="afterSuite"/>
+          <include name="beforeMethod"/>
+          <include name="afterMethod"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- testCasePack.TC001_LoginSanity -->
+    </classes>
+  </test> <!-- HomePageTest(failed) -->
+</suite> <!-- Failed suite [Regression Suite] -->

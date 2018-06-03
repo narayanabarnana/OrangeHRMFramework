@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extentreports>
+<configuration>
+
+<Encoding>UTF-8</Encoding>
+<protocol>https</protocol>
+<theme>dark</theme>
+<documentTitle>Selenium Automation Testing Suite</documentTitle>
+<reportName>Custom Report</reportName>
+<reportHeadline>Framework created by: Agnibha Ghosh</reportHeadline>
+<dateFormat>yyyy-MM-dd</dateFormat>
+<timeFormat>HH:mm:ss</timeFormat>
+<scripts>
+<![CDATA[$(document).ready(function() {});]]>
+</scripts>
+<scripts>
+<![CDATA[$(document).ready(function() {$('.dashboard-view'.click();});]]>
+
+
+</scripts>
+
+
+</configuration>
+
+
+</extentreports>
